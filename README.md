@@ -54,9 +54,10 @@ git clone https://github.com/LeandroJr1010/Portifolio-HTML-e-CSS-Curso3-aula_5.g
 
 ## 🙌 Autor
 
-Desenvolvido por Leandro Marques
+Desenvolvido por **Leandro Marques**
 
 - 📬 [GitHub](https://github.com/LeandroJr1010)  
 - 🔗 [LinkedIn](https://www.linkedin.com/feed/)  
 - 🎮 [Twitch](https://www.twitch.tv/)
+
 
