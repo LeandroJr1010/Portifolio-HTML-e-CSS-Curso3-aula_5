@@ -29,7 +29,11 @@ Este projeto foi desenvolvido como parte do meu aprendizado em desenvolvimento F
 
 ## 📁 Estrutura de arquivos
 
-Portifolio-HTML-e-CSS-Curso3-aula_5/ ├── index.html ├── about.html ├── styles/ │ └── style.css ├── assets/ │ ├── imagem.png │ ├── github.png │ ├── linkedin.png │ └── twitch.png
+Portifolio-HTML-e-CSS-Curso3-aula_5/ 
+├── index.html 
+├── about.html 
+├── styles/ │ └── style.css 
+├── assets/ │ ├── imagem.png │ ├── github.png │ ├── linkedin.png │ └── twitch.png
 
 ---
 
