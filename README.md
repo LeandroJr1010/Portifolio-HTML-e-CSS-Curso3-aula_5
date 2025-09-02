@@ -53,4 +53,5 @@ Você pode clonar este repositório e abrir o arquivo `index.html` em seu navega
 git clone https://github.com/LeandroJr1010/Portifolio-HTML-e-CSS-Curso3-aula_5.git
 
 🙌 Autor
-Desenvolvido por Leandro Marques 📬 GitHub 🔗 LinkedIn 🎮 Twitch
+Desenvolvido por Leandro Marques
+📬 [GitHub](https://github.com/LeandroJr1010) 🔗 LinkedIn 🎮 Twitch
