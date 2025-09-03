@@ -69,6 +69,13 @@ Este projeto me ajudou a consolidar conceitos fundamentais de desenvolvimento we
 - Documentação com Markdown para repositórios
 
 ---
+
+## 📄 Licença
+
+Este projeto está licenciado sob os termos da [Licença MIT](./LICENSE.md).
+
+---
+
 ## 🙌 Autor
 
 Desenvolvido por **Leandro Marques**
