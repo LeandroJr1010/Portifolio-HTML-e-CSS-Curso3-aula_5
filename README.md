@@ -34,18 +34,17 @@ Você pode visualizar o projeto publicado em:
 
 ---
 
-## 📁 Estrutura de arquivos
-
-📁 Portifolio-HTML-e-CSS-Curso3-aula_5/
-├── index.html
-├── about.html
-├── styles/
-│   └── [style.css](./styles/style.css)
-├── assets/
-│   ├── [imagem.png](./assets/imagem.png)
-│   ├── github.png
-│   ├── linkedin.png
-│   └── twitch.png
+- 📁 **Portifolio-HTML-e-CSS-Curso3-aula_5/**
+  - 📄 [index.html](./index.html)
+  - 📄 [about.html](./about.html)
+  - 📁 **styles/**
+    - 🎨 [style.css](./styles/style.css)
+  - 📁 **assets/**
+    - 🖼️ [capturaDeTela.png](./assets/capturaDeTela.png)
+    - 🖼️ [imagem.png](./assets/imagem.png)
+    - 🔗 [github.png](./assets/github.png)
+    - 🔗 [linkedin.png](./assets/linkedin.png)
+    - 🔗 [twitch.png](./assets/twitch.png)
 
 ---
 
