@@ -35,7 +35,7 @@ Você pode visualizar o projeto publicado em:
 ---
 
 ## 📁 Estrutura de arquivos
-```
+
 📁 Portifolio-HTML-e-CSS-Curso3-aula_5/
 ├── index.html
 ├── about.html
@@ -46,7 +46,7 @@ Você pode visualizar o projeto publicado em:
 │   ├── github.png
 │   ├── linkedin.png
 │   └── twitch.png
-```
+
 ---
 
 ## 🚀 Como visualizar
