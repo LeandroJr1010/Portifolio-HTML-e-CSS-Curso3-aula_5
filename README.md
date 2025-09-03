@@ -40,9 +40,9 @@ Você pode visualizar o projeto publicado em:
 ├── index.html
 ├── about.html
 ├── styles/
-│   └── style.css
+│   └── [style.css](./styles/style.css)
 ├── assets/
-│   ├── imagem.png
+│   ├── [imagem.png](./assets/imagem.png)
 │   ├── github.png
 │   ├── linkedin.png
 │   └── twitch.png
