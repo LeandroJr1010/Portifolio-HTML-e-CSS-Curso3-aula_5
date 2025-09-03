@@ -41,7 +41,7 @@ Você pode visualizar o projeto publicado em:
     - 🎨 [style.css](./styles/style.css)
   - 📁 **assets/**
     - 🖼️ [capturaDeTela.png](./assets/capturaDeTela.png)
-    - 🖼️ [imagem.png](./assets/Imagem.png)
+    - 🖼️ [imagem.png](./assets/imagem.png)
     - 🔗 [github.png](./assets/github.png)
     - 🔗 [linkedin.png](./assets/linkedin.png)
     - 🔗 [twitch.png](./assets/twitch.png)
