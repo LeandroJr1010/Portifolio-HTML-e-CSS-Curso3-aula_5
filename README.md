@@ -7,7 +7,7 @@ Este projeto foi desenvolvido como parte do meu aprendizado em desenvolvimento F
 ## 🌐 Projeto online
 
 Você pode visualizar o projeto publicado em:  
-🔗 [https://LeandroJr1010.github.io/Portifolio-HTML-e-CSS-Curso3-aula_5/](https://leandrojr1010.github.io)
+🔗 [Clique aqui para abrir o site](https://LeandroJr1010.github.io/Portifolio-HTML-e-CSS-Curso3-aula_5/)
 
 ---
 
